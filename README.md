@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sai Kiran
+# Hi 👋, I'm Sai Kiran Reddy
 
 ### Aspiring Data Analyst | Python | SQL | Power BI
 
