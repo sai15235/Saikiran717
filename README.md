@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sai Kiran Reddy
 
-<img align="right" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" width="250"/>
+<img align="right" alt="coding" width="300" src="YOUR_IMAGE_LINK">
 
 ### Data Analyst | Python | SQL | Power BI
 
@@ -13,10 +13,10 @@ Always learning. Always improving. 🚀
 ### 🛠 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,mysql,excel" />
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
 </p>
-
 ---
 
 ### 📊 GitHub Stats
