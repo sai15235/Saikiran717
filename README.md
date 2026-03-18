@@ -7,6 +7,7 @@ I enjoy working with real-world datasets, building dashboards, and extracting in
 
 Always learning. Always improving. 🚀
 
+<img src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" width="400"/>
 ---
 
 ### 📫 Contact Me
@@ -14,13 +15,10 @@ Always learning. Always improving. 🚀
 - LinkedIn: [linkedin.com/in/saikiran-r717](url)
 
 ---
-<img src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" width="400"/>
-
----
 
 ### 🛠 Languages and Tools
 <p>
-<img src="https://skillicons.dev/icons?i=python,mysql,pandas,git,github,excel" />
+<img src="https://skillicons.dev/icons?i=python,sql,excel,power-bi" />
 </p>
 
 ---
